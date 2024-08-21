@@ -1,0 +1,9 @@
+.frm h1{
+    color: rgb(41, 66, 66);
+}
+
+.tbl{
+    align-items: center;
+    text-align: center;
+    background-color: rgb(247, 249, 253);
+}
